@@ -1,8 +1,8 @@
-# Calculator Project
+# Calculator Web App
 
-Simple calculator built using HTML, CSS and JavaScript.
+A simple calculator built using HTML, CSS, and JavaScript.
 
-## Features:
+## Features
 - Addition
 - Subtraction
 - Multiplication
@@ -12,6 +12,9 @@ Simple calculator built using HTML, CSS and JavaScript.
 - HTML
 - CSS
 - JavaScript
+
+## Live Demo
+https://bhumikkohar.github.io/calculator-js
 
 ## Author
 Bhumik Kohar
